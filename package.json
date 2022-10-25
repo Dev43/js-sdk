@@ -1,5 +1,5 @@
 {
-  "name": "bundlr",
+  "name": "@bundlr-network/client",
   "version": "0.8.9",
   "description": "JS client for Bundlr nodes",
   "repository": "https://github.com/Dev43/js-sdk.git",

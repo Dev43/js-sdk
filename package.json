@@ -1,8 +1,8 @@
 {
-  "name": "@bundlr-network/client",
+  "name": "bundlr",
   "version": "0.8.9",
   "description": "JS client for Bundlr nodes",
-  "repository": "https://github.com/Bundlr-Network/js-client.git",
+  "repository": "https://github.com/Dev43/js-sdk.git",
   "author": "Bundlr Network",
   "license": "Apache-2.0",
   "main": "./build/index.js",
